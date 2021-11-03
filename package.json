@@ -1,6 +1,8 @@
 {
   "name": "canvas",
   "version": "0.1.0",
+  "author": "Otávio Bastilho",
+  "homepage": "https://obeavis.github.io/canvas",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.4.0",
