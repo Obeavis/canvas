@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48778cd9.chunk.css",
+    "main.js": "/static/js/main.571024c6.chunk.js",
+    "main.js.map": "/static/js/main.571024c6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.86f93445.js",
+    "runtime-main.js.map": "/static/js/runtime-main.86f93445.js.map",
+    "static/js/2.40727e11.chunk.js": "/static/js/2.40727e11.chunk.js",
+    "static/js/2.40727e11.chunk.js.map": "/static/js/2.40727e11.chunk.js.map",
+    "static/js/3.747fb71c.chunk.js": "/static/js/3.747fb71c.chunk.js",
+    "static/js/3.747fb71c.chunk.js.map": "/static/js/3.747fb71c.chunk.js.map",
+    "static/js/4.faaa487f.chunk.js": "/static/js/4.faaa487f.chunk.js",
+    "static/js/4.faaa487f.chunk.js.map": "/static/js/4.faaa487f.chunk.js.map",
+    "static/js/5.e4a5089a.chunk.js": "/static/js/5.e4a5089a.chunk.js",
+    "static/js/5.e4a5089a.chunk.js.map": "/static/js/5.e4a5089a.chunk.js.map",
+    "static/js/6.0f99ce7b.chunk.js": "/static/js/6.0f99ce7b.chunk.js",
+    "static/js/6.0f99ce7b.chunk.js.map": "/static/js/6.0f99ce7b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.48778cd9.chunk.css.map": "/static/css/main.48778cd9.chunk.css.map",
+    "static/js/2.40727e11.chunk.js.LICENSE.txt": "/static/js/2.40727e11.chunk.js.LICENSE.txt",
+    "static/js/3.747fb71c.chunk.js.LICENSE.txt": "/static/js/3.747fb71c.chunk.js.LICENSE.txt",
+    "static/js/4.faaa487f.chunk.js.LICENSE.txt": "/static/js/4.faaa487f.chunk.js.LICENSE.txt",
+    "static/js/5.e4a5089a.chunk.js.LICENSE.txt": "/static/js/5.e4a5089a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/balao_1.58fa75b7.svg": "/static/media/balao_1.58fa75b7.svg",
+    "static/media/balao_2.68882a55.svg": "/static/media/balao_2.68882a55.svg",
+    "static/media/balao_3.d2f0d484.svg": "/static/media/balao_3.d2f0d484.svg",
+    "static/media/balao_4.3dd61965.svg": "/static/media/balao_4.3dd61965.svg",
+    "static/media/check.ca8acbe4.svg": "/static/media/check.ca8acbe4.svg",
+    "static/media/estrela.663ad534.svg": "/static/media/estrela.663ad534.svg",
+    "static/media/feliciencia_logo.99b74c51.svg": "/static/media/feliciencia_logo.99b74c51.svg",
+    "static/media/icone_flor.1e0a1002.svg": "/static/media/icone_flor.1e0a1002.svg",
+    "static/media/interrogacao.ff24d6a9.svg": "/static/media/interrogacao.ff24d6a9.svg",
+    "static/media/pdf.748fd8c1.jpg": "/static/media/pdf.748fd8c1.jpg",
+    "static/media/setas.d9087d3d.svg": "/static/media/setas.d9087d3d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86f93445.js",
+    "static/js/3.747fb71c.chunk.js",
+    "static/css/main.48778cd9.chunk.css",
+    "static/js/main.571024c6.chunk.js"
+  ]
+}
